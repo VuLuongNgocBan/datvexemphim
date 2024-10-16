@@ -1,7 +1,4 @@
 Cấu trúc thư mục gồm trong bài nộp của nhóm em gồm:
-+ File báo cáo: gồm 2 bản docx và pdf
-+ Bảng tự đánh giá
-+ Bản khảo sát yêu cầu
 + Thư mục source: Thư mục gốc của trang web
 + File database.sql (MySQL PhpMyadmin): cơ sở dữ liệu của đề tài
 + Thư mục images: Chứa hình ảnh các Usecase tổng quát, Tổng thể chức năng hệ thống, Mô Hình Quan Hệ, ERD,...
@@ -26,3 +23,5 @@ Các tài khoản có thể sử dụng để đăng nhập vào trang web:
 
 Người dùng cũng có thể đăng ký tài khoản khác bằng cách sử dụng chức năng đăng ký tài khoản của chương trình, 
 hoặc có thể đăng nhập bằng các tài khoản khác trong trang quản lý cơ sở dữ liệu Phpmyadmin.
+
+Lưu ý: File .env đã ẩn đi do chứa thông tin nhạy cảm
